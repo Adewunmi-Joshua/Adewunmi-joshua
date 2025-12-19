@@ -1,10 +1,14 @@
 ## Hi there 👋
 
-# ☁️ Cloud & Security Learning Journey
+I am Ademola, a learner exploring **Cloud Computing** with a strong focus on
+**AWS Cloud**. I am currently preparing for the **AWS Cloud Practitioner** certification,
+while intentionally building a solid foundation in cloud concepts before moving fully
+into **Cloud Security**.
 
-This repository documents my hands-on learning in **Cloud Computing**, with a clear and intentional progression toward **Cloud Security**.
+I believe you must clearly understand how the cloud works—services, responsibilities,
+and architectures—before you can secure it properly. This GitHub is where I document
+my learning journey, share projects, and explain cloud concepts in my own way as I grow.
 
-I am currently focused on building **strong cloud foundations through AWS Cloud Practitioner preparation**, with the belief that a deep understanding of cloud services, architectures, and responsibilities is essential before specializing in security.
+I’m open to learning, collaboration, and helpful feedback.
 
-This repository serves as a **living record of my growth**, capturing practical labs, configurations, mistakes, and lessons learned as I develop cloud knowledge with a security mindset.
 
