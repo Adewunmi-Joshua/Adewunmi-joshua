@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 I am Joshua, a learner exploring **Cloud Computing** with a focus on
-**AWS Cloud**. I am currently preparing for the **AWS Cloud Practitioner** certification,
-while intentionally building a solid foundation in cloud concepts before moving fully
+**AWS Cloud**. I am preparing for the **AWS Cloud Practitioner** certification,
+while building a solid foundation in cloud concepts before moving fully
 into **Cloud Security**.
 
 I believe you must clearly understand how the cloud works services, responsibilities,
