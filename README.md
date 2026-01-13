@@ -9,6 +9,6 @@ I believe you must clearly understand how the cloud works services, responsibili
 and architectures before you can secure it properly. This GitHub is where I document
 my learning journey, share projects, and explain cloud concepts in my own way as I grow.
 
-I am open to learning, collaboration, and helpful feedback.
+I am open to learning, collaboration, and helpful feedback. I enjoy drinking tea and doing research on the tech and aviation industries.
 
 
