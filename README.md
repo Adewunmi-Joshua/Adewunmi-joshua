@@ -11,4 +11,6 @@ my learning journey, share projects, and explain cloud concepts in my own way as
 
 I am open to learning, collaboration, and helpful feedback. I enjoy drinking tea and doing research on the tech and aviation industries.
 
+#### I am fully back. Life happened along the learning process, but the journey continues.
+
 
